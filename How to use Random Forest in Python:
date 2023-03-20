@@ -9,3 +9,6 @@ pip install numpy pandas scikit-learn
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 
+# Load the dataset:
+Load the dataset that you want to use for training the Random Forest algorithm. 
+You can use the pandas library to load CSV, Excel, or other data formats.
