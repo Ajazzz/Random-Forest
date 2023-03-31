@@ -1,8 +1,8 @@
 # Install the necessary packages:
 You can install the necessary packages by running the following command in your terminal:
-
+```ruby
 pip install numpy pandas scikit-learn
-
+```
 
 # Import the necessary libraries:
 
