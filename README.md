@@ -21,3 +21,4 @@ Here are the steps to implement a Random Forest model:
 7. Fine-tune the model: You can fine-tune the model by adjusting the hyperparameters such as the number of trees, maximum depth, and minimum samples split.
 
 8. Save and deploy the model: Once the model is trained and fine-tuned, save it for future use and deploy it for prediction.
+
