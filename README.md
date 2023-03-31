@@ -38,9 +38,3 @@ It can be slow to train and make predictions on large datasets.
 
 
 
-```mermaid
-A[Christmas] -->
-    B --> C[D]
-    C --> D[D]
-    C --> E[D]
-```
