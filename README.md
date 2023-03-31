@@ -43,8 +43,7 @@ It can be slow to train and make predictions on large datasets.
 graph TD;
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
+    
 ```
 
 
