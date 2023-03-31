@@ -39,6 +39,8 @@ It can be slow to train and make predictions on large datasets.
 
 
 ```mermaid
-graph TB;
-    A-->B;
+A[Christmas] -->|Decesion Tree| B(Data)
+    B --> C{Let me think}
+    C --> D[]
+    C --> E[]
 ```
