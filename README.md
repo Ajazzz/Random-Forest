@@ -40,7 +40,7 @@ It can be slow to train and make predictions on large datasets.
 
 
 graph TD
-    A[Random Forest] -->
+    A[Random Forest] -->|Decesion Tree| B(Data)
     B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
