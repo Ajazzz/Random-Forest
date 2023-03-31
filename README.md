@@ -38,12 +38,7 @@ It can be slow to train and make predictions on large datasets.
 
 
 
-
-graph TD
-    A[Christmas] -->|D| B(Data)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-
-
+```mermaid
+graph TB;
+    A-->B;
+```
